@@ -1,12 +1,4 @@
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
-
-# ![Build your own X](feynman.png)
-
-## Table of contents
-
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
-* [BitTorrent Client](#build-your-own-bittorrent-client)
+* teste
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
